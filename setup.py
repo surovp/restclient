@@ -3,7 +3,6 @@ REQUIRES = [
     'structlog',
     'requests',
     'allure-pytest',
-    'allure',
     'curlify'
 ]
 
